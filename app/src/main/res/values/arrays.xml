@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="list_image_url">
+        <item>https://images.wallpaperscraft.ru/image/single/liudi_zontiki_ulitsa_1187450_360x640.jpg</item>
+        <item>https://placekitten.com/640/360</item>
+        <item>https://placebear.com/640/360</item>
+        <item>https://images.wallpaperscraft.ru/image/single/skala_relef_priroda_1191064_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/kot_pitomets_geterohromiia_1191672_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/malchik_eda_rumianets_1191712_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/mustang_gt_mustang_avtomobil_1191100_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/dikij_kot_kot_pushistyj_1191057_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/futbolnyj_miach_futbol_gazon_121273_360x640.jpg</item>
+        <item>https://images.wallpaperscraft.ru/image/single/rebenok_futbolist_futbol_122132_360x640.jpg</item>
+    </string-array>
+
+    <string-array name="list_first_name">
+        <item>Misha</item>
+        <item>Dima</item>
+        <item>Serega</item>
+        <item>Daniil</item>
+        <item>Valya</item>
+        <item>Masha</item>
+        <item>Dasha</item>
+        <item>Katya</item>
+        <item>Sasha</item>
+        <item>Nikita</item>
+    </string-array>
+
+    <string-array name="list_second_name">
+        <item>Panchenkov</item>
+        <item>Saprikin</item>
+        <item>Prokofyev</item>
+        <item>Popov</item>
+        <item>Samonchev</item>
+        <item>Makarenkova</item>
+        <item>Shkrebo</item>
+        <item>Vasilyeva</item>
+        <item>Tolstov</item>
+        <item>Petuhov</item>
+    </string-array>
+
+    <string-array name="list_phone_number">
+        <item>89123456789</item>
+        <item>89234567890</item>
+        <item>89345678901</item>
+        <item>89456789012</item>
+        <item>89567890123</item>
+        <item>89678901234</item>
+        <item>89789012345</item>
+        <item>89890123456</item>
+        <item>89901234567</item>
+        <item>89012345678</item>
+    </string-array>
+
+</resources>
