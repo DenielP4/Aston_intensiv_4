@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">FragmentManager</string>
+
+    <string name="b_first_task">First Task</string>
+    <string name="b_second_task">Second Task</string>
+
+    <string name="b_next">Next</string>
+    <string name="b_previous">Previous</string>
+    <string name="b_to_a">Go to A</string>
+    <string name="b_to_b">Go to B</string>
+
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="fragment_d">Fragment D</string>
+
+    <string name="b_edit">Изменить</string>
+    <string name="b_save">Сохранить</string>
+
+    <string name="ed_hint_first_name">Имя</string>
+    <string name="ed_hint_last_name">Фамилия</string>
+    <string name="ed_hint_phone">Номер телефона</string>
+
+    <string name="warning">Все поля необходимо заполнить!</string>
+    <string name="message">Hello Fragment C</string>
+
+
+    <string name="current_image_url">CURRENT_IMAGE_URL</string>
+    <string name="position_key">position_key</string>
+    <string name="bundle_user_key">BUNDLE_USER_KEY</string>
+    <string name="request_user_key">REQUEST_USER_KEY</string>
+
+</resources>
